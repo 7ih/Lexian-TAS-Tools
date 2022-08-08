@@ -1,10 +1,5 @@
 {
 
-	"version": "1.0",
-
-	"whitelist": [{
-		"identifier": "637c1885392fee1bc8a3c6943429d37a5ced5c37c3d1de80d804d9f9f5d26939",
-		"key": "544f2ff0d35880bc95aede09fdb4e44c659bf3af9cdb21078e947bb3daa10590"
-	}]
+	"version": "1.0"
 
 }
