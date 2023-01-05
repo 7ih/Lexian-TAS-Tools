@@ -2,5 +2,6 @@
   "version": {
     "fe2": "1.4",
     "Global": "1.0"
-  }
+  },
+  "enabled": false
 }
