@@ -1,7 +1,7 @@
 {
   "version": {
-    "fe2": "1.4",
+    "fe2": "1.5",
     "Global": "1.0"
   },
-  "enabled": false
+  "enabled": true
 }
